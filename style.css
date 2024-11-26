@@ -5,7 +5,14 @@ body {
 .body_section {
   padding: 3% 5% 1%;
 }
-
+.loda{
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 p {
   font-size: 18px;
 }
